@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## 2nd Bioinformatics in Action seminar
 
-You can use the [editor on GitHub](https://github.com/BiGCAT-UM/BioinformaticsInAction/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+* **Topic: Using digital notebooks for chemistry and toxicology**
+* Meet the Bioinformatics PhD students
+* Wednesday, 15 January 2020
+* 15:00 - 17:00
+* UNS60, Co-greep zaal (M5.01)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Speakers
 
-### Markdown
+**Laurent Winckers**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*Title*: Community frameworks to address reproducible science for nanomaterials (eNanoMapper and NanoCommons projects)
 
-```markdown
-Syntax highlighted code block
+*Abstract*: The presentation will provide an overview of the eNanoMapper infrastructure and the NanoCommons project. Moreover it will showcase the easy data retrieval from the eNanoMapper database using an API call in Jupyter notebooks and will discuss future directions.
+The eNanoMapper consortium consists of 8 partners of which Maastricht University is one. The eNanoMapper ontology and database are both part of the eNanoMapper infrastructure and are community agreed. The infrastructure requires detailed expertise in numerous domains such as nanotechnology, community building, IT skills, modelling and analysis. The eNanoMapper framework will provide the infrastructure for the registration and the collection of experimental information and data of nanomaterials. The ontology provides the metadata to annotate the information and data stored in the database to ensure that inter-laboratory comparisons and testing is possible.
+Second, NanoCommons is a H2020 infrastructure project which addresses the gap of lack of read-across approaches, data fragmentation and data inaccessibility for nanomaterials. To address this, NanoCommons will make use of the eNanoMapper infrastructure to support the facilitation of a single integrated resource for nanoinformatics data.
+In the future NanoCommons will follow up on the eNanoMapper infrastructure and will create a community framework and infrastructure for reproducible science, in particular in silico workflows for nanomaterials and beyond. 
 
-# Header 1
-## Header 2
-### Header 3
+**Marvin Martens**
 
-- Bulleted
-- List
+*Title*: Combining OpenRiskNet services to extend Adverse Outcome Pathways through Jupyter notebooks
 
-1. Numbered
-2. List
+*Abstract*: Risk assessors require a large amount of information and data for well-informed decision making on chemical safety. For that purpose, the concept of Adverse Outcome Pathways (AOPs) has been introduced to capture existing mechanistic knowledge. Because these are currently mostly textual descriptions of processes based on literature review, they lack the possibility of integration with databases, knowledge repositories, prediction tools and services. Therefore, we developed the AOP-Wiki RDF, allowing increased accessibility and interoperability of AOP knowledge. With that, we can implement this framework in Jupyter notebooks and extend the captured information and annotations with additional knowledge, experimental data, and predictive tools for improved usefulness of AOPs for risk assessors. The presentation will include a brief introduction to the concept of AOPs, the OpenRiskNet e-infrastructure, and an example Jupyter notebook.
 
-**Bold** and _Italic_ and `Code` text
+**Denise Slenter**
 
-[Link](url) and ![Image](src)
-```
+*Title*: A digital notebook to use graph databases for metabolomics data analysis
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BiGCAT-UM/BioinformaticsInAction/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+*Abstract*: Analyzing (sparse) Metabolomics data can be improved using graph databases, such as Neo4j. Digital notebooks can improve the reproducibility of such data analysis. During this talk, we will show an example notebook which combines a pathway knowledge base, captured as a graph model, for metabolomics data analysis.
