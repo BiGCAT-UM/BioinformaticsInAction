@@ -8,7 +8,7 @@
 
 ### Speakers
 
-**Laurent Winckers**
+**1. Laurent Winckers**
 
 *Title*: Community frameworks to address reproducible science for nanomaterials (eNanoMapper and NanoCommons projects)
 
@@ -17,13 +17,13 @@ The eNanoMapper consortium consists of 8 partners of which Maastricht University
 Second, NanoCommons is a H2020 infrastructure project which addresses the gap of lack of read-across approaches, data fragmentation and data inaccessibility for nanomaterials. To address this, NanoCommons will make use of the eNanoMapper infrastructure to support the facilitation of a single integrated resource for nanoinformatics data.
 In the future NanoCommons will follow up on the eNanoMapper infrastructure and will create a community framework and infrastructure for reproducible science, in particular in silico workflows for nanomaterials and beyond. 
 
-**Marvin Martens**
+**2. Marvin Martens**
 
 *Title*: Combining OpenRiskNet services to extend Adverse Outcome Pathways through Jupyter notebooks
 
 *Abstract*: Risk assessors require a large amount of information and data for well-informed decision making on chemical safety. For that purpose, the concept of Adverse Outcome Pathways (AOPs) has been introduced to capture existing mechanistic knowledge. Because these are currently mostly textual descriptions of processes based on literature review, they lack the possibility of integration with databases, knowledge repositories, prediction tools and services. Therefore, we developed the AOP-Wiki RDF, allowing increased accessibility and interoperability of AOP knowledge. With that, we can implement this framework in Jupyter notebooks and extend the captured information and annotations with additional knowledge, experimental data, and predictive tools for improved usefulness of AOPs for risk assessors. The presentation will include a brief introduction to the concept of AOPs, the OpenRiskNet e-infrastructure, and an example Jupyter notebook.
 
-**Denise Slenter**
+**3. Denise Slenter**
 
 *Title*: A digital notebook to use graph databases for metabolomics data analysis
 
